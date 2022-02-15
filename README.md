@@ -21,6 +21,12 @@
 <hr>
 <br>
 
+## 0. 프로젝트 DEMO 영상
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WLbSBx2FcfM/0.jpg)](https://www.youtube.com/watch?v=WLbSBx2FcfM)
+
+<br>
+
 
 ## 1. 개요
 
