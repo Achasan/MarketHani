@@ -36,7 +36,7 @@
 
 - Stack
     - Language : Java 1.8
-    - Database : Oracle 18c
+    - Database : Oracle 11c
     - Library : JSP/Servlet, jQuery
     - Server : Apache Tomcat 9.0
     - HTML5, CSS3, JavaScript, 
